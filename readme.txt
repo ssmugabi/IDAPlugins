@@ -9,5 +9,6 @@
     pip install https://github.com/mrexodia/ida-pro-mcp/archive/refs/heads/main.zip
     ida-pro-mcp --install
 - findcrypt-yara
-    
-
+    添加 sm4 支持...
+- diaphora
+    二进制 diff 工具，需要自己修改 diaphora_plugin.cfg

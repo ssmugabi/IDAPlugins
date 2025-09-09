@@ -1,2 +1,8 @@
 ida-pro-mcp==1.4.0
 keystone-engine==0.9.3
+cdifflib==1.2.9
+scikit_learn==1.7.2
+numpy==2.3.2
+pandas==2.3.2
+joblib==1.5.2
+nltk==3.9.1
