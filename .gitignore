@@ -1,1 +1,9 @@
 __pycache__/
+**/__pycache__/
+**/.idea/
+**/.vscode/
+**/venv/
+**~
+**.pyc
+**.log
+d810_logs/

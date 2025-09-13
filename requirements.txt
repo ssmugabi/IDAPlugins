@@ -7,3 +7,4 @@ pandas==2.3.2
 joblib==1.5.2
 nltk==3.9.1
 yara-python==4.5.4
+z3-solver==4.15.3
