@@ -13,3 +13,6 @@
 - diaphora
     二进制 diff 工具，需要自己修改 diaphora_plugin.cfg
     适配 IDA Pro 9.2+
+- d810
+    反混淆工具
+    适配 IDA Pro 9.2+
